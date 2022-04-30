@@ -609,9 +609,9 @@
         <div id="stars2"></div>
         <div id="stars3"></div>
         <div id="title">
-            <span>Welcome!</span>
+            <span>Cogito</span>
             <br>
-            <span>Pritam Pagla's Website</span>
+            <span style="color:blue;font-size:30px;" >How do I know there’s anything there except what I’m conscious of?</span>
         </div>
     </section>
 </body>
